@@ -60,4 +60,4 @@ El código de este proyecto está bajo la **Licencia MIT**.
 
 El contenido textual y gráfico original de este sitio (guías, artículos, publicaciones) está licenciado bajo la **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**.
 
-Esto significa que eres libre de compartir y adaptar el contenido para cualquier propósito, incluso comercialmente, siempre y cuando des la atribución adecuada, proporciones un enlace a la licencia y un enlace a [WarcarftCorsairs](https://tu-url.com).
+Esto significa que eres libre de compartir y adaptar el contenido para cualquier propósito, incluso comercialmente, siempre y cuando des la atribución adecuada, proporciones un enlace a la licencia y un enlace a [WarcarftCorsairs](#).
